@@ -27,7 +27,6 @@ Perfect for:
 - Works great with embedded DSP platforms like:
   - Daisy Seed
   - Teensy
-  - Arduino MIDI projects
 
 ---
 
